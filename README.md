@@ -3,7 +3,6 @@
 AI 활용 / Claude Code 학습 로그.
 
 AI와 대화하며 배운 것을 **그날그날 실시간으로 기록**하는 살아있는 노트입니다.
-[mykim-aus/ml-dl-learning-log](https://github.com/mykim-aus/ml-dl-learning-log)의 방식(개념)을 차용했습니다.
 
 ## 원칙 (Andrej Karpathy, "전문가가 되는 법")
 

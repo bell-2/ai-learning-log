@@ -13,8 +13,7 @@ Andrej Karpathy의 "전문가가 되는 법" 세 가지를 따르기 위해서.
 2. 배운 것을 자기 언어로 정리한다
 3. 과거의 나와만 비교한다
 
-ML/DL을 바닥부터 파는 [ml-dl-learning-log](https://github.com/mykim-aus/ml-dl-learning-log)의
-기록 방식이 좋아 보여서, 나는 **AI 활용과 Claude Code**를 주제로 같은 방식을 쓴다.
+**AI 활용과 Claude Code**를 주제로, 배운 것을 그때그때 이 파일에 쌓아간다.
 
 ---
 
